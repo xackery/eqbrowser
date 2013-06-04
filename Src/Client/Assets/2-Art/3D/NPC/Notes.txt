@@ -1,0 +1,28 @@
+global_chr.s3d
+- EYE_ACTORDEF crashes on export
+- IVM_ACTORDEF crashes on export
+- BOAT_ACTORDEF doesn't export
+
+akanon_chr.s3d
+- CL_ACTORDEF crashes on export
+
+beholder_chr.s3d
+- BET_ACTORDEF textures come out as 2x2
+- GNN_ACTORDEF walk animation is zero length
+
+butcher_chr.s3d
+- PRE_ACTORDEF exports but no mesh loads into UU3D
+- SHIP_ACTORDEF doesn't export anything
+
+erudnext_chr.s3d
+- LAUNCH_ACTORDEF doesn't export anything
+
+highkeep_chr.s3d
+- HHM_ACTORDEF crashes on export
+
+kaladima_chr.s3d
+- KA_ACTORDEF crashes on export
+
+oot_chr.s3d
+- GSP_ACTORDEF doesn't export anything
+

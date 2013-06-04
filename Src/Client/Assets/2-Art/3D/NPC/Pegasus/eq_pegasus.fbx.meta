@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: a8f97b0303b58c74d8d1ffba144dd188
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: CHEST01
+    100002: //RootNode
+    100004: FOREL02
+    100006: FOREL03
+    100008: FOREL04
+    100010: FOREL05
+    100012: FORER02
+    100014: FORER03
+    100016: FORER04
+    100018: FORER05
+    100020: HEAD01
+    100022: HEAD_POINT
+    100024: HINDL02
+    100026: HINDL03
+    100028: HINDL04
+    100030: HINDL05
+    100032: HINDR02
+    100034: HINDR03
+    100036: HINDR04
+    100038: HINDR05
+    100040: NECK01
+    100042: NECK02
+    100044: PE
+    100046: Root
+    100048: TAIL02
+    100050: TAIL03
+    100052: TAIL04
+    100054: U3DMesh
+    100056: WINGL1
+    100058: WINGL2
+    100060: WINGL3
+    100062: WINGR1
+    100064: WINGR2
+    100066: WINGR3
+    400000: CHEST01
+    400002: //RootNode
+    400004: FOREL02
+    400006: FOREL03
+    400008: FOREL04
+    400010: FOREL05
+    400012: FORER02
+    400014: FORER03
+    400016: FORER04
+    400018: FORER05
+    400020: HEAD01
+    400022: HEAD_POINT
+    400024: HINDL02
+    400026: HINDL03
+    400028: HINDL04
+    400030: HINDL05
+    400032: HINDR02
+    400034: HINDR03
+    400036: HINDR04
+    400038: HINDR05
+    400040: NECK01
+    400042: NECK02
+    400044: PE
+    400046: Root
+    400048: TAIL02
+    400050: TAIL03
+    400052: TAIL04
+    400054: U3DMesh
+    400056: WINGL1
+    400058: WINGL2
+    400060: WINGL3
+    400062: WINGR1
+    400064: WINGR2
+    400066: WINGR3
+    4300000: U3DMesh
+    7400000: Melee1H
+    7400002: Hurt_01
+    7400004: Dead
+    7400006: Walk
+    7400008: Run
+    7400010: Idle_01
+    7400012: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: U3DMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

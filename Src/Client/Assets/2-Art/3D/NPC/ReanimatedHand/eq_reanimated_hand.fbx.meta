@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 251ce0c19a350b145844d94d9665e429
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FN11
+    100004: FN12
+    100006: FN13
+    100008: FN21
+    100010: FN22
+    100012: FN23
+    100014: FN31
+    100016: FN32
+    100018: FN33
+    100020: FN41
+    100022: FN42
+    100024: FN43
+    100026: FN51
+    100028: FN52
+    100030: FN53
+    100032: HEAD_POINT
+    100034: PE
+    100036: Root
+    100038: U3DMesh
+    400000: //RootNode
+    400002: FN11
+    400004: FN12
+    400006: FN13
+    400008: FN21
+    400010: FN22
+    400012: FN23
+    400014: FN31
+    400016: FN32
+    400018: FN33
+    400020: FN41
+    400022: FN42
+    400024: FN43
+    400026: FN51
+    400028: FN52
+    400030: FN53
+    400032: HEAD_POINT
+    400034: PE
+    400036: Root
+    400038: U3DMesh
+    4300000: U3DMesh
+    7400000: Melee1H
+    7400002: Hurt_01
+    7400004: Dead
+    7400006: Run
+    7400008: Idle_01
+    7400010: Idle
+    7400012: Turn
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: U3DMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

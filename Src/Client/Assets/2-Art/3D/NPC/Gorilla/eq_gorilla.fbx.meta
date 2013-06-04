@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 76f65fb631ac3e340a8cd56c411d26c7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BI_L
+    100002: BI_R
+    100004: BO_L
+    100006: BO_R
+    100008: CA_L
+    100010: CA_R
+    100012: CH
+    100014: //RootNode
+    100016: F1_L
+    100018: F1_R
+    100020: F2_L
+    100022: F2_R
+    100024: F3_L
+    100026: F3_R
+    100028: FI_L
+    100030: FI_R
+    100032: FO_L
+    100034: FO_R
+    100036: HE
+    100038: HEAD_POINT
+    100040: JA
+    100042: NE
+    100044: PE
+    100046: Root
+    100048: SH_L
+    100050: SH_R
+    100052: T2_L
+    100054: T2_R
+    100056: T3_L
+    100058: T3_R
+    100060: T_GORCH0001_MDF
+    100062: T_GORCH0001_MDF 1
+    100064: T_GORHE0001_MDF
+    100066: T_GORHE0001_MDF 1
+    100068: T_GORHE0002_MDF
+    100070: T_GORHE0002_MDF 1
+    100072: T_GORHN0001_MDF
+    100074: T_GORHN0001_MDF 1
+    100076: T_GORHN0002_MDF
+    100078: T_GORHN0002_MDF 1
+    100080: T_GORHN0003_MDF
+    100082: T_GORHN0003_MDF 1
+    100084: T_GORLG0001_MDF
+    100086: T_GORLG0001_MDF 1
+    100088: TH_L
+    100090: TH_R
+    100092: TO_L
+    100094: TO_R
+    100096: U3DRoot
+    100098: U3DRoot0
+    100100: WA
+    400000: BI_L
+    400002: BI_R
+    400004: BO_L
+    400006: BO_R
+    400008: CA_L
+    400010: CA_R
+    400012: CH
+    400014: //RootNode
+    400016: F1_L
+    400018: F1_R
+    400020: F2_L
+    400022: F2_R
+    400024: F3_L
+    400026: F3_R
+    400028: FI_L
+    400030: FI_R
+    400032: FO_L
+    400034: FO_R
+    400036: HE
+    400038: HEAD_POINT
+    400040: JA
+    400042: NE
+    400044: PE
+    400046: Root
+    400048: SH_L
+    400050: SH_R
+    400052: T2_L
+    400054: T2_R
+    400056: T3_L
+    400058: T3_R
+    400060: T_GORCH0001_MDF
+    400062: T_GORCH0001_MDF 1
+    400064: T_GORHE0001_MDF
+    400066: T_GORHE0001_MDF 1
+    400068: T_GORHE0002_MDF
+    400070: T_GORHE0002_MDF 1
+    400072: T_GORHN0001_MDF
+    400074: T_GORHN0001_MDF 1
+    400076: T_GORHN0002_MDF
+    400078: T_GORHN0002_MDF 1
+    400080: T_GORHN0003_MDF
+    400082: T_GORHN0003_MDF 1
+    400084: T_GORLG0001_MDF
+    400086: T_GORLG0001_MDF 1
+    400088: TH_L
+    400090: TH_R
+    400092: TO_L
+    400094: TO_R
+    400096: U3DRoot
+    400098: U3DRoot0
+    400100: WA
+    4300000: T_GORLG0001_MDF
+    4300002: T_GORHE0001_MDF
+    4300004: T_GORCH0001_MDF
+    4300006: T_GORHN0002_MDF
+    4300008: T_GORHN0003_MDF
+    4300010: T_GORHN0001_MDF
+    4300012: T_GORHE0002_MDF
+    7400000: Melee1H
+    7400002: SwimAttack
+    7400004: Hurt_01
+    7400006: Dead
+    7400008: Walk
+    7400010: Run
+    7400012: Idle_01
+    7400014: Idle
+    7400016: Turn
+    7400018: Swim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: T_GORCH0001_MDF
+    13700002: T_GORHE0001_MDF
+    13700004: T_GORHE0002_MDF
+    13700006: T_GORHN0001_MDF
+    13700008: T_GORHN0002_MDF
+    13700010: T_GORHN0003_MDF
+    13700012: T_GORLG0001_MDF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

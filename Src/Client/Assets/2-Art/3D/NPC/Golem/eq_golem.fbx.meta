@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: d09ffa2d05e241a4e9b6a4ab076f9ef4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BI_L
+    100002: BI_R
+    100004: BO_L
+    100006: BO_R
+    100008: CA_L
+    100010: CA_R
+    100012: CH
+    100014: //RootNode
+    100016: EY
+    100018: FI_L
+    100020: FI_R
+    100022: FO_L
+    100024: FO_R
+    100026: HA1
+    100028: HA2
+    100030: HE
+    100032: HEAD_POINT
+    100034: L_POINT
+    100036: NE
+    100038: PE
+    100040: R_POINT
+    100042: Root
+    100044: T_GOLCH0001_MDF
+    100046: T_GOLCH0001_MDF 1
+    100048: T_GOLFA0001_MDF
+    100050: T_GOLFA0001_MDF 1
+    100052: T_GOLFT0001_MDF
+    100054: T_GOLFT0001_MDF 1
+    100056: T_GOLFT0002_MDF
+    100058: T_GOLFT0002_MDF 1
+    100060: T_GOLHE0001_MDF
+    100062: T_GOLHE0001_MDF 1
+    100064: T_GOLHN0001_MDF
+    100066: T_GOLHN0001_MDF 1
+    100068: T_GOLHN0002_MDF
+    100070: T_GOLHN0002_MDF 1
+    100072: T_GOLLG0001_MDF
+    100074: T_GOLLG0001_MDF 1
+    100076: T_GOLLG0002_MDF
+    100078: T_GOLLG0002_MDF 1
+    100080: T_GOLLG0003_MDF
+    100082: T_GOLLG0003_MDF 1
+    100084: T_GOLUA0001_MDF
+    100086: T_GOLUA0001_MDF 1
+    100088: TH_L
+    100090: TH_R
+    100092: TO_L
+    100094: TO_R
+    100096: U3DRoot
+    100098: U3DRoot0
+    400000: BI_L
+    400002: BI_R
+    400004: BO_L
+    400006: BO_R
+    400008: CA_L
+    400010: CA_R
+    400012: CH
+    400014: //RootNode
+    400016: EY
+    400018: FI_L
+    400020: FI_R
+    400022: FO_L
+    400024: FO_R
+    400026: HA1
+    400028: HA2
+    400030: HE
+    400032: HEAD_POINT
+    400034: L_POINT
+    400036: NE
+    400038: PE
+    400040: R_POINT
+    400042: Root
+    400044: T_GOLCH0001_MDF
+    400046: T_GOLCH0001_MDF 1
+    400048: T_GOLFA0001_MDF
+    400050: T_GOLFA0001_MDF 1
+    400052: T_GOLFT0001_MDF
+    400054: T_GOLFT0001_MDF 1
+    400056: T_GOLFT0002_MDF
+    400058: T_GOLFT0002_MDF 1
+    400060: T_GOLHE0001_MDF
+    400062: T_GOLHE0001_MDF 1
+    400064: T_GOLHN0001_MDF
+    400066: T_GOLHN0001_MDF 1
+    400068: T_GOLHN0002_MDF
+    400070: T_GOLHN0002_MDF 1
+    400072: T_GOLLG0001_MDF
+    400074: T_GOLLG0001_MDF 1
+    400076: T_GOLLG0002_MDF
+    400078: T_GOLLG0002_MDF 1
+    400080: T_GOLLG0003_MDF
+    400082: T_GOLLG0003_MDF 1
+    400084: T_GOLUA0001_MDF
+    400086: T_GOLUA0001_MDF 1
+    400088: TH_L
+    400090: TH_R
+    400092: TO_L
+    400094: TO_R
+    400096: U3DRoot
+    400098: U3DRoot0
+    4300000: T_GOLHE0001_MDF
+    4300002: T_GOLFA0001_MDF
+    4300004: T_GOLLG0001_MDF
+    4300006: T_GOLHN0001_MDF
+    4300008: T_GOLHN0002_MDF
+    4300010: T_GOLCH0001_MDF
+    4300012: T_GOLUA0001_MDF
+    4300014: T_GOLLG0002_MDF
+    4300016: T_GOLLG0003_MDF
+    4300018: T_GOLFT0001_MDF
+    4300020: T_GOLFT0002_MDF
+    7400000: Untitled
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: T_GOLCH0001_MDF
+    13700002: T_GOLFA0001_MDF
+    13700004: T_GOLFT0001_MDF
+    13700006: T_GOLFT0002_MDF
+    13700008: T_GOLHE0001_MDF
+    13700010: T_GOLHN0001_MDF
+    13700012: T_GOLHN0002_MDF
+    13700014: T_GOLLG0001_MDF
+    13700016: T_GOLLG0002_MDF
+    13700018: T_GOLLG0003_MDF
+    13700020: T_GOLUA0001_MDF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: f88f53ed24370514eafd431c721a8443
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BI_L
+    100002: BI_R
+    100004: BO_L
+    100006: BO_R
+    100008: CA_L
+    100010: CA_R
+    100012: CH
+    100014: FI_L
+    100016: FI_L2
+    100018: FI_R
+    100020: FI_R2
+    100022: FO_L
+    100024: FO_R
+    100026: GUILD_POINT
+    100028: HE
+    100030: HEAD_POINT
+    100032: //RootNode
+    100034: L_POINT
+    100036: Main
+    100038: NE
+    100040: PE
+    100042: R_POINT
+    100044: Root
+    100046: SHIELD_POINT
+    100048: TH_L
+    100050: TH_R
+    100052: TO_L
+    100054: TO_R
+    400000: BI_L
+    400002: BI_R
+    400004: BO_L
+    400006: BO_R
+    400008: CA_L
+    400010: CA_R
+    400012: CH
+    400014: FI_L
+    400016: FI_L2
+    400018: FI_R
+    400020: FI_R2
+    400022: FO_L
+    400024: FO_R
+    400026: GUILD_POINT
+    400028: HE
+    400030: HEAD_POINT
+    400032: //RootNode
+    400034: L_POINT
+    400036: Main
+    400038: NE
+    400040: PE
+    400042: R_POINT
+    400044: Root
+    400046: SHIELD_POINT
+    400048: TH_L
+    400050: TH_R
+    400052: TO_L
+    400054: TO_R
+    7400000: Sit
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Sit
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

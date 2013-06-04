@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 41c84e80abce74f478f8158e0fd04a43
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BI_L
+    100002: BI_R
+    100004: BO_L
+    100006: BO_R
+    100008: CA_L
+    100010: CA_R
+    100012: CH
+    100014: //RootNode
+    100016: FI_L
+    100018: FI_R
+    100020: FO_L
+    100022: FO_R
+    100024: HE
+    100026: HEAD_POINT
+    100028: L_POINT
+    100030: NE
+    100032: PE
+    100034: R_POINT
+    100036: Root
+    100038: SHIELD_POINT
+    100040: T_GRFCH0001_MDF
+    100042: T_GRFCH0001_MDF 1
+    100044: T_GRFCH0002_MDF
+    100046: T_GRFCH0002_MDF 1
+    100048: T_GRFFA0001_MDF
+    100050: T_GRFFA0001_MDF 1
+    100052: T_GRFFT0001_MDF
+    100054: T_GRFFT0001_MDF 1
+    100056: T_GRFFT0002_MDF
+    100058: T_GRFFT0002_MDF 1
+    100060: T_GRFHE0001_MDF
+    100062: T_GRFHE0001_MDF 1
+    100064: T_GRFHN0001_MDF
+    100066: T_GRFHN0001_MDF 1
+    100068: T_GRFHN0002_MDF
+    100070: T_GRFHN0002_MDF 1
+    100072: T_GRFLG0001_MDF
+    100074: T_GRFLG0001_MDF 1
+    100076: T_GRFLG0002_MDF
+    100078: T_GRFLG0002_MDF 1
+    100080: T_GRFLG0003_MDF
+    100082: T_GRFLG0003_MDF 1
+    100084: T_GRFUA0001_MDF
+    100086: T_GRFUA0001_MDF 1
+    100088: T_TRFHE0002_MDF
+    100090: T_TRFHE0002_MDF 1
+    100092: TH_L
+    100094: TH_R
+    100096: TO_L
+    100098: TO_R
+    100100: U3DRoot
+    100102: U3DRoot0
+    400000: BI_L
+    400002: BI_R
+    400004: BO_L
+    400006: BO_R
+    400008: CA_L
+    400010: CA_R
+    400012: CH
+    400014: //RootNode
+    400016: FI_L
+    400018: FI_R
+    400020: FO_L
+    400022: FO_R
+    400024: HE
+    400026: HEAD_POINT
+    400028: L_POINT
+    400030: NE
+    400032: PE
+    400034: R_POINT
+    400036: Root
+    400038: SHIELD_POINT
+    400040: T_GRFCH0001_MDF
+    400042: T_GRFCH0001_MDF 1
+    400044: T_GRFCH0002_MDF
+    400046: T_GRFCH0002_MDF 1
+    400048: T_GRFFA0001_MDF
+    400050: T_GRFFA0001_MDF 1
+    400052: T_GRFFT0001_MDF
+    400054: T_GRFFT0001_MDF 1
+    400056: T_GRFFT0002_MDF
+    400058: T_GRFFT0002_MDF 1
+    400060: T_GRFHE0001_MDF
+    400062: T_GRFHE0001_MDF 1
+    400064: T_GRFHN0001_MDF
+    400066: T_GRFHN0001_MDF 1
+    400068: T_GRFHN0002_MDF
+    400070: T_GRFHN0002_MDF 1
+    400072: T_GRFLG0001_MDF
+    400074: T_GRFLG0001_MDF 1
+    400076: T_GRFLG0002_MDF
+    400078: T_GRFLG0002_MDF 1
+    400080: T_GRFLG0003_MDF
+    400082: T_GRFLG0003_MDF 1
+    400084: T_GRFUA0001_MDF
+    400086: T_GRFUA0001_MDF 1
+    400088: T_TRFHE0002_MDF
+    400090: T_TRFHE0002_MDF 1
+    400092: TH_L
+    400094: TH_R
+    400096: TO_L
+    400098: TO_R
+    400100: U3DRoot
+    400102: U3DRoot0
+    4300000: T_GRFHE0001_MDF
+    4300002: T_TRFHE0002_MDF
+    4300004: T_GRFCH0001_MDF
+    4300006: T_GRFLG0001_MDF
+    4300008: T_GRFFA0001_MDF
+    4300010: T_GRFCH0002_MDF
+    4300012: T_GRFHN0001_MDF
+    4300014: T_GRFHN0002_MDF
+    4300016: T_GRFUA0001_MDF
+    4300018: T_GRFFT0002_MDF
+    4300020: T_GRFLG0002_MDF
+    4300022: T_GRFFT0001_MDF
+    4300024: T_GRFLG0003_MDF
+    7400000: Untitled
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: T_GRFCH0001_MDF
+    13700002: T_GRFCH0002_MDF
+    13700004: T_GRFFA0001_MDF
+    13700006: T_GRFFT0001_MDF
+    13700008: T_GRFFT0002_MDF
+    13700010: T_GRFHE0001_MDF
+    13700012: T_GRFHN0001_MDF
+    13700014: T_GRFHN0002_MDF
+    13700016: T_GRFLG0001_MDF
+    13700018: T_GRFLG0002_MDF
+    13700020: T_GRFLG0003_MDF
+    13700022: T_GRFUA0001_MDF
+    13700024: T_TRFHE0002_MDF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
