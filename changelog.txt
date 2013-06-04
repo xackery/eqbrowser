@@ -1,0 +1,11 @@
+Camera
+---------------------
+zer0sum: Mouselooking will now hide the mouse cursor and re-appear at center screen when released
+zer0sum: Added ability to "scroll out" of 1st person to fixed 3rd person (behind player)
+
+Movement
+---------------------
+zer0sum: It is now possible to mouse-run (hold down both buttons)
+
+
+note:run animation is now being played too much causing it to look sloppy
