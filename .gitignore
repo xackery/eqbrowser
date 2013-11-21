@@ -3,6 +3,7 @@
 [Oo]bj/
 [Hh]tml/
 bin/
+Src/Client/[Ll]ibrary/
 *.suo
 *.unityproj
 *.pidb
