@@ -32,7 +32,13 @@ public class ThirdPersonCamera : MonoBehaviour
     float targetLastRot;
 
     bool m_isLocked;
-
+	protected static ThirdPersonCamera mInstance;
+	
+	//Xack: Get last instance of ThirdPersonCamera (or singleton if we want one later)
+	public static ThirdPersonCamera Get() {
+		return mInstance;	
+	}
+	
     void FindHeadTarget()
     {
         target = MiscHelpers.GetChildTransformByTag(m_curCharacterTarget.transform, "EyesTag");
@@ -48,6 +54,7 @@ public class ThirdPersonCamera : MonoBehaviour
     // Use this for initialization
 	void Start () 
     {
+		mInstance = this;
         FindHeadTarget();
         FindPlayerController();
         Vector3 angles = transform.eulerAngles;

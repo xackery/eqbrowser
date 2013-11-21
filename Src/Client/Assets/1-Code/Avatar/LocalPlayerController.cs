@@ -113,6 +113,24 @@ public class LocalPlayerController : MonoBehaviour
 
         inputMoveDir = inputMoveDir.normalized * m_walkSpeed * Time.deltaTime;
         m_collisionFlags = m_charControl.Move(inputMoveDir + verticalMoveDir);
+		
+		//Xack: Hacked in a mouse projector for making NPCs do stuff.
+		if (Input.GetMouseButtonDown(0)) 
+		{
+			RaycastHit rayHit;
+			
+			 Ray ray = ThirdPersonCamera.Get().camera.ScreenPointToRay(Input.mousePosition);
+        	Debug.DrawRay(ray.origin, ray.direction * 1000, Color.yellow);
+			
+			if (Physics.Raycast(ray, out rayHit)) {
+				NPCHelper curNPC = rayHit.transform.GetComponent<NPCHelper>();
+				if (curNPC != null) {
+					curNPC.PlayRandomAnimation();
+				}
+			}
+				
+			
+		}
     }
 
     public void Turn(float amount, bool clockwise)

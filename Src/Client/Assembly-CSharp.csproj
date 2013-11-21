@@ -52,6 +52,7 @@
      <Compile Include="Assets\1-Code\Camera\ThirdPersonCamera.cs" />
      <Compile Include="Assets\1-Code\Files\PrefabList.cs" />
      <Compile Include="Assets\1-Code\Misc\MiscHelpers.cs" />
+     <Compile Include="Assets\1-Code\Misc\NPCHelper.cs" />
      <Compile Include="Assets\1-Code\Network\EQApplicationPacket.cs" />
      <Compile Include="Assets\1-Code\Network\EQPacket.cs" />
      <Compile Include="Assets\1-Code\Network\EmuOpcode.cs" />
