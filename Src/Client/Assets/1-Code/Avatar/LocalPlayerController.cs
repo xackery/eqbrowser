@@ -115,7 +115,7 @@ public class LocalPlayerController : MonoBehaviour
         m_collisionFlags = m_charControl.Move(inputMoveDir + verticalMoveDir);
 		
 		//Xack: Hacked in a mouse projector for making NPCs do stuff.
-		if (Input.GetMouseButtonDown(0)) 
+		if (Input.GetMouseButtonDown(0) && !Input.GetMouseButtonDown(1)) 
 		{
 			RaycastHit rayHit;
 			

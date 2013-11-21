@@ -27,8 +27,9 @@ public class NPCHelper : MonoBehaviour {
 		//Attack sound
 		switch (animList[mAnimationIndex]) {
 		case "Melee1H":
+		case "SwimAttack":
 			foreach (AudioClip curClip in soundList) {
-				if (curClip.name.Contains("_att")) {
+				if (curClip.name.Contains("att")) {
 					mAudioSource.clip = curClip;
 					mAudioSource.Play();
 					break;
@@ -37,7 +38,7 @@ public class NPCHelper : MonoBehaviour {
 			break;
 		case "Hurt_01":
 			foreach (AudioClip curClip in soundList) {
-				if (curClip.name.Contains("_hit")) {
+				if (curClip.name.Contains("hit")) {
 					mAudioSource.clip = curClip;
 					mAudioSource.Play();
 					break;
@@ -47,7 +48,16 @@ public class NPCHelper : MonoBehaviour {
 		case "Idle":
 		case "Idle_01":			
 			foreach (AudioClip curClip in soundList) {
-				if (curClip.name.Contains("_idl")) {
+				if (curClip.name.Contains("idl")) {
+					mAudioSource.clip = curClip;
+					mAudioSource.Play();
+					break;
+				}
+			}
+			break;
+		case "Walk":
+			foreach (AudioClip curClip in soundList) {
+				if (curClip.name.Contains("wlk")) {
 					mAudioSource.clip = curClip;
 					mAudioSource.Play();
 					break;
@@ -56,7 +66,7 @@ public class NPCHelper : MonoBehaviour {
 			break;
 		case "Dead":
 			foreach (AudioClip curClip in soundList) {
-				if (curClip.name.Contains("_die")) {
+				if (curClip.name.Contains("die")) {
 					mAudioSource.clip = curClip;
 					mAudioSource.Play();
 					break;
@@ -71,6 +81,12 @@ public class NPCHelper : MonoBehaviour {
 		if (mAnimation == null) {
 			Debug.Log (name+" does not have any animations, destroying NPC Helper");
 			Destroy(gameObject);
+		}
+		mCollider = GetComponent<BoxCollider>();
+		if (mCollider == null) {
+			Debug.Log ("No collider found on "+name+", I'll add a generic one.");
+			mCollider = gameObject.AddComponent<BoxCollider>();
+			mCollider.size = new Vector3(8,8,8);
 		}
 		foreach (AnimationState curAnim in mAnimation ) {
 			animList.Add(curAnim.name);
