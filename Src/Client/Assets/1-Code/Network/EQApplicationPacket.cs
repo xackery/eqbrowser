@@ -22,10 +22,10 @@ class EQApplicationPacket : EQPacket
         : base(op, null, size)
     {
     }
-
+	/*
     EQApplicationPacket(EmuOpcode op, byte[] pBuffer, UInt32 size)
         : base(op, pBuffer, size)
     {
-    }
+    }*/
     #endregion
 }
